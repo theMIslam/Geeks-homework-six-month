@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework6-4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="operations">Operations</string>
+    <string name="_0">0</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+</resources>
